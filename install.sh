@@ -20,4 +20,4 @@ sudo printf "{
     \"timeout\":300,
     \"method\":\"aes-256-cfb\"
 }" >/etc/shadowsocks.json
-sudo /home/ubuntu/.local/bin/ssserver -c /etc/shadowsocks.json -d start
+/usr/local/bin/ssserver -c /etc/shadowsocks.json -d start
