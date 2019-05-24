@@ -8,6 +8,7 @@ sudo apt-get install g++
 sudo apt-get install build-essential
 sudo apt-get install gcc-5.4-multilib
 sudo apt-get install gcc-multilib
+sudo apt-get install nasm
 sudo apt install python3-pip
 sudo apt install python
 pip3 install https://github.com/shadowsocks/shadowsocks/archive/master.zip
